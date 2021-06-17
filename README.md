@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning smart cards, NFC cards
 
 In Python they want to make synchronous asynchronus
+
 In JS they want to make asynchronous synchronous
 
 <!---
