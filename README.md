@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hyfung
-- 👀 I’m interested in IoT, AI, Computer Vision, Qt, Python and C++
+- 👀 I’m interested in IoT, AI, Computer Vision, Embedded System, Python and C++
 - 🌱 I’m currently learning smart cards, NFC cards
 
 In Python they want to make synchronous asynchronus
