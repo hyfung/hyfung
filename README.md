@@ -1,5 +1,5 @@
 Software developer mainly in Embedded System, AI, IoT and Computer Vision
 
-Proficient in Python and C++. Knows web technology too.
+Proficient in Python and C++
 
-Familiar with electronics too
+Familiar with web technology and electronics too
