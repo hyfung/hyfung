@@ -1,7 +1,4 @@
 Software developer mainly in Embedded System, AI, IoT and Computer Vision
 
-Proficient in Python and C++
+In 2025 Im gonna study AI to enhance my knowledge base
 
-Familiar with networking and electronics too
-
-Knows some web technologies
